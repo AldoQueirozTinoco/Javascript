@@ -15,5 +15,5 @@ const removido = alunos.pop()//remove o ultimo elemento
 const removido2 = alunos.shift()//remove o primeiro elemento
 console.log(alunos)
 console.log(alunos.slice(0,2))
-console.log(alunos instanceof Array)
+console.log(alunos instanceof Array)//retorna true, pois é array
 
