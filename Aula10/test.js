@@ -10,7 +10,12 @@ multi(2,3)
 //tambem podemos fazer:
 console.log(soma(5))
 //assim, x assume o valor de 5 e y continua 1
-const sqrt = function(n){
-    return n**0.5;
-};
+const sqrt = n => n ** 0.5;
+/* Ou
+
+const sqrt = (n) =>{
+    return n ** 0.5;
+}
+
+*/
 console.log(sqrt(4))
