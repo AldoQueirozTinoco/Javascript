@@ -1,7 +1,7 @@
 /*
-== igualdade (valor)
+== igualdade (valor) não usar
 === igualdade estrita
-!= diferente (valor)
+!= diferente (valor) não usar
 !==diferente estrito
 ______________________
 O resto é igual a C
