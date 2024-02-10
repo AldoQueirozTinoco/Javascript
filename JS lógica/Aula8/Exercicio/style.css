@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+}
+p{
+    text-align: center;
+    box-sizing:border-box;
+}
+.container{
+    display:flex;
+    height:auto;
+    padding: 20px;
+    width: 400px;
+    border-radius: 10%;
+    background-color: rgb(255, 255, 255);
+    margin:auto;
+    box-sizing: border-box;
+}
