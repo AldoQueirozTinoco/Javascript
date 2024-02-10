@@ -16,10 +16,25 @@ body{
     line-height: 1.5em;
 }
 
+ul{
+    list-style-type: none;
+    margin:0;
+    padding: 0;
+}
+
+#imc{
+    text-align: left;
+    display:inline-block;
+}
+#result{
+    margin-left: 100px;
+    display: inline-block;
+}
+
 .container{
     max-width: 640px;
     margin: 50px auto;
-    background: #16a0c6;
+    background: #ffffff;
     padding: 20px;
     border-radius: 10px;
 }
@@ -52,4 +67,12 @@ form button{
 
 form button:hover{
     background-color: var(--primary-darker);
+}
+
+.paragrafo-resultado, .bad{
+    background-color: aquamarine;
+    padding: 10px 20px;
+}
+.bad{
+    background-color: red;
 }
