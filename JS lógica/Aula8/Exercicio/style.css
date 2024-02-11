@@ -7,6 +7,7 @@ p{
 }
 .container{
     display:flex;
+    min-height:107.83px;
     height:auto;
     padding: 20px;
     width: 400px;

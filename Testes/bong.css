@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+}
+#title{
+    text-align: center;
+}
+header{
+    background-color: lightblue;
+    padding: 5px;
+}
