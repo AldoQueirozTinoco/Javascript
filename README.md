@@ -1,2 +1,2 @@
-# Javascript-e-Typescript
-Meu aprendizado em Type e Javascript!
+# Javascript
+Meu aprendizado em Javascript!
